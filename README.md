@@ -4,7 +4,7 @@ An adaptation of Gabriele Cirulli's [original 2048](http://gabrielecirulli.githu
 The original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 ## Screenshots
-[<img src="http://i.imgur.com/Je0zYac.png" width=250>](https://lh4.googleusercontent.com/-eXKU4UhFusI/AAAAAAAAAAI/AAAAAAAAATA/1QahWqsqd-I/s0-c-k-no-ns/photo.jpg)
+[<img src="http://i.imgur.com/Je0zYac.png" width=500>](http://i.imgur.com/Je0zYac.png)
 
 ## License
 2048 is licensed under the MIT license.
