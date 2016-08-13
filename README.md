@@ -7,7 +7,7 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 [<img src="http://i.imgur.com/Je0zYac.png" width=500>](http://i.imgur.com/Je0zYac.png)
 
 ## License
-2048 is licensed under the MIT license.
+Presidents 2048 is licensed under the MIT license.
 
 The MIT License (MIT)
 
