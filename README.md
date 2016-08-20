@@ -5,7 +5,7 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 
 ## Demo
 [<img src="http://i.imgur.com/5DsbCFx.gif" width=500>](http://i.imgur.com/5DsbCFx.gif)
-
+ 
 ## License
 Presidents 2048 is licensed under the MIT license.
 
